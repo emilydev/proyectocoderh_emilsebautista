@@ -1,0 +1,29 @@
+/* HABITACIONES */
+
+.div_gris {
+    background-color: #f8f9fa;
+    padding-top: 70px;
+    padding-bottom: 70px
+}
+
+.foto-habitacion {
+    width: 90%;
+    height: 397px;
+}
+
+.titulo-habitacion {
+    font: normal normal 600 24px/35px Poppins;
+    color: #000000;
+}
+
+.texto-contenido-habitacion {
+    font: normal normal normal 16px/25px Poppins;
+    color: #000000;
+}
+
+.texto-tabla-habitacion {
+    font: normal normal 600 16px/25px Poppins;
+    color: #000000;
+    background-color: #FFFFFF;
+    width: 80%
+}

@@ -1,0 +1,41 @@
+.nav-link {
+    font: normal normal bold 20px/30px Poppins;
+    color: #FFFFFF;
+}
+
+.nav-link.active {
+    color: #59DAE5 !important;
+}
+
+.separador {
+    color: #FFFFFF;
+    font-size: 20px;
+    top: 60px;
+    position: absolute;
+}
+
+.navbar-fondoazul {
+    background-color: #3866E2;
+}
+
+.foto-portada {
+    background: url('../images/foto-portada.png') no-repeat center;
+    ;
+    height: 745px;
+}
+
+.texto-logo {
+    text-align: left;
+    font: normal normal bold 20px/23px Poppins;
+    color: #FFFFFF;
+}
+
+.cuadro-titulo {
+    background-color: #3a3434;
+    opacity: 0.7;
+    top: 269px;
+    left: 33vw;
+    width: 690px;
+    height: 256px;
+    position: absolute;
+}

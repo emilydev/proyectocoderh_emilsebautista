@@ -1,0 +1,28 @@
+/* CONTACTENOS */
+.contactenos-titulo {
+    font: normal normal bold 24px/30px Bodoni Moda 11pt;
+    color: #09182E;
+    line-height: 0px;
+    text-align: center;
+}
+
+.contactenos-subtitulo {
+    font: normal normal normal 16px/25px Poppins;
+    color: #707070;
+    text-align: center;
+}
+
+.contactenos-label {
+    font: normal normal normal 16px/25px Poppins;
+    color: #707070;
+}
+
+.contactenos-boton {
+    margin-top: 50px;
+    background: #4E66F8 0% 0% no-repeat padding-box;
+    color: white;
+    border-radius: 5px;
+    width: 227px;
+    height: 40px;
+    font: normal normal normal 16px/25px Poppins;
+}
